@@ -145,7 +145,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -294,7 +294,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
-            <version>4.3.16.RELEASE</version>
+            <version>4.3.30.RELEASE</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
